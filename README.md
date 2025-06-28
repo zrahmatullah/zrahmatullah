@@ -40,9 +40,9 @@
 ---
 
 ## 📫 Kontak & Jejak Digital
-- ✉️ Email: azharrahmatullah01@gmail.com *(contoh, ubah sesuai emailmu)*
-- 🔗 LinkedIn: [linkedin.com/in/azhar-as-rahmatulloh-55bbba1b8/]([https://linkedin.com/in/zrahmatullah](https://www.linkedin.com/in/azhar-as-rahmatulloh-55bbba1b8/)) *(opsional)*
-- 🌐 Website/Portofolio: [-]) *(jika ada)*
+- ✉️ Email: azharrahmatullah01@gmail.com
+- 🔗 LinkedIn: [linkedin.com/in/azhar-as-rahmatulloh-55bbba1b8/]([https://linkedin.com/in/zrahmatullah](https://www.linkedin.com/in/azhar-as-rahmatulloh-55bbba1b8/))
+- 🌐 Website/Portofolio: [-])
 
 ---
 
