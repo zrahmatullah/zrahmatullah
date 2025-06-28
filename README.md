@@ -31,15 +31,6 @@
 
 ---
 
-## 📊 GitHub Statistik
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zrahmatullah&show_icons=true&theme=radical&hide_border=true&count_private=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zrahmatullah&layout=compact&theme=radical&hide_border=true" height="180" />
-</p>
-
----
-
 ## 🌟 Proyek Unggulan
 - 🎓 [Informasi Sekolah Web App](https://github.com/zrahmatullah/Informasi-Sekolah-Web-App)  
   Aplikasi sekolah berbasis Laravel + Vue dengan fitur lengkap seperti data siswa, guru, jadwal, nilai, dan absensi.
