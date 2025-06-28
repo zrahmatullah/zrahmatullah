@@ -1,8 +1,8 @@
 <!-- PROFIL README UNTUK GITHUB -->
 
-<h1 align="center">👋 Halo, Saya Rahmatullah!</h1>
+<h1 align="center">👋 Halo, Saya Azhar As Rahmatulloh Rahmatullah!</h1>
 <p align="center">
-  🚀 Full-Stack Developer | 💡 Laravel + Vue Enthusiast | 📍 Indonesia
+  🚀 Web Developer | 💡 Laravel + Vue Enthusiast | 📍 Indonesia
 </p>
 
 <p align="center">
@@ -12,8 +12,8 @@
 ---
 
 ## 🔧 Tentang Saya
-- 🧠 Saya adalah seorang **Full-stack Developer** yang fokus pada **Laravel** dan **Vue.js**
-- 🏫 Saat ini sedang mengembangkan: **Sistem Informasi Sekolah**
+- 🧠 Saya adalah seorang **Web Developer** yang fokus pada **Laravel** dan **Vue.js**
+- 🏫 Saat ini sedang mengembangkan: **Sistem Informasi Sekolah dan Sistem Informasi Rumah Sakit**
 - ✨ Saya menyukai pengembangan aplikasi berbasis web, UI modern, dan manajemen database
 - ☕ Selalu siap belajar dan kolaborasi dengan tim
 
@@ -49,9 +49,9 @@
 ---
 
 ## 📫 Kontak & Jejak Digital
-- ✉️ Email: zrahmatullah.dev@gmail.com *(contoh, ubah sesuai emailmu)*
-- 🔗 LinkedIn: [linkedin.com/in/zrahmatullah](https://linkedin.com/in/zrahmatullah) *(opsional)*
-- 🌐 Website/Portofolio: [rahmatullah.dev](https://rahmatullah.dev) *(jika ada)*
+- ✉️ Email: azharrahmatullah01@gmail.com *(contoh, ubah sesuai emailmu)*
+- 🔗 LinkedIn: [linkedin.com/in/azhar-as-rahmatulloh-55bbba1b8/]([https://linkedin.com/in/zrahmatullah](https://www.linkedin.com/in/azhar-as-rahmatulloh-55bbba1b8/)) *(opsional)*
+- 🌐 Website/Portofolio: [-]) *(jika ada)*
 
 ---
 
