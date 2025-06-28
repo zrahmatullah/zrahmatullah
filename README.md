@@ -1,6 +1,6 @@
 <!-- PROFIL README UNTUK GITHUB -->
 
-<h1 align="center">👋 Halo, Saya Azhar As Rahmatulloh Rahmatullah!</h1>
+<h1 align="center">👋 Halo, Saya Azhar As Rahmatulloh!</h1>
 <p align="center">
   🚀 Web Developer | 💡 Laravel + Vue Enthusiast | 📍 Indonesia
 </p>
